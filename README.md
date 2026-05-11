@@ -5,7 +5,7 @@
 
 This repository serves as the supplementary material for our paper: **"Exploring HackRF SDR: A Jamming Tutorial into Signal Generation and Interference Effects"**. 
 
-It demonstrates a proactive, software-defined radio (SDR) jamming attack targeting the 2.4 GHz Wi-Fi communication link (Downlink/Uplink) of a commercial UAV (Parrot Bebop 2). The attack generates continuous Gaussian noise to degrade the Signal-to-Noise Ratio (SNR), effectively disrupting telemetry, video feed, and command control.
+It demonstrates a proactive, software-defined radio (SDR) jamming attack targeting the 2.4 GHz Wi-Fi communication link  of a commercial UAV (Parrot Bebop 2). The attack generates continuous Gaussian noise to degrade the Signal-to-Noise Ratio (SNR), effectively disrupting telemetry, video feed, and command control.
 
 ## Hardware & Software Used
 
