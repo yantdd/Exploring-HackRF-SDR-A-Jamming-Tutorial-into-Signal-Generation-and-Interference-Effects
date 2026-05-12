@@ -30,6 +30,6 @@ The impact of the jamming signal on the 2.4 GHz spectrum (Channel 1 - 2412 MHz).
 
 | No Jamming | Jamming Active |
 | :---: | :---: |
-| <video src="https://github.com/user-attachments/assets/9de74786-a06d-4e79-a076-965fdd2d9bb6" width="300"></video> <br> *Smooth video feed and responsive controls.* | <video src="https://github.com/user-attachments/assets/8dd5f081-b73b-4bb5-bd04-c3d159aaf2ff" width="300"></video> <br> *Severe video glitches and contreol lags.* |
+| <video src="https://github.com/user-attachments/assets/9de74786-a06d-4e79-a076-965fdd2d9bb6" width="300"></video> <br> *Smooth video feed and responsive controls.* | <video src="https://github.com/user-attachments/assets/8dd5f081-b73b-4bb5-bd04-c3d159aaf2ff" width="300"></video> <br> *Severe video glitches and control lags.* |
 
 
